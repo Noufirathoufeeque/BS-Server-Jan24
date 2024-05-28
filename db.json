@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "57f8",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J K Rowling",
+      "cover_image_url": "https://images.ctfassets.net/usf1vwtuqyxm/6S51pK7uwnyhkS9Io9DsAn/320c162c5150f853b8d8568c4715dcef/English_Harry_Potter_7_Epub_9781781100264.jpg?w=914&q=70&fm=jpg"
+    },
+    {
+      "id": "2574",
+      "title": "The Tale of Peter Rabbit",
+      "author": " Beatrix Potter",
+      "cover_image_url": "https://images.booksense.com/images/326/034/9789395034326.jpg"
+    },
+    {
+      "id": "3fd3",
+      "title": "Charlotte's Web",
+      "author": " E. B. White",
+      "cover_image_url": "https://embed.cdn.pais.scholastic.com/v1/channels/clubs-us/products/identifiers/isbn/9780590302715/primary/renditions/500"
+    },
+    {
+      "id": "6d07",
+      "title": "Corduroy",
+      "author": "Don Freeman",
+      "cover_image_url": "https://m.media-amazon.com/images/I/710EqtFQLPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "c4bd",
+      "title": "Love You Forever",
+      "author": "Robert Munsch",
+      "cover_image_url": "https://m.media-amazon.com/images/I/810k-3rpXSL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
